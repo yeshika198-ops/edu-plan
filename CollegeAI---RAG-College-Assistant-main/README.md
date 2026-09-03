@@ -80,6 +80,46 @@ npm run build
 npm start
 ```
 
+## Deploy Frontend and Backend
+
+The repository includes a root-level `render.yaml` for the Express backend. Deploy the two parts separately:
+
+### Backend on Render
+
+1. Create a Render Blueprint from this GitHub repository, or create a Web Service manually.
+2. If configuring manually, use these settings:
+   - Root Directory: `CollegeAI---RAG-College-Assistant-main`
+   - Build Command: `npm install && npm run build:server`
+   - Start Command: `npm start`
+   - Health Check Path: `/api/health`
+3. Add these environment variables in Render:
+
+```text
+NODE_ENV=production
+JWT_SECRET=<long-random-secret>
+GEMINI_API_KEY=<your-gemini-api-key>
+PORT=10000
+```
+
+Copy the deployed backend URL, for example `https://collegeai-backend.onrender.com`.
+
+### Frontend on Vercel
+
+1. Import the same GitHub repository into Vercel.
+2. Set Root Directory to `CollegeAI---RAG-College-Assistant-main`.
+3. Use the Vite preset, with Build Command `npm run build:client` and Output Directory `dist`.
+4. Add this environment variable, using your real Render URL:
+
+```text
+VITE_API_BASE_URL=https://collegeai-backend.onrender.com
+```
+
+Deploy Vercel after saving the variable. Test the backend first at `<backend-url>/api/health`, then open the Vercel URL, register, upload a document, wait for `Indexed`, and ask a question.
+
+### Persistence warning
+
+The current embedded database writes JSON files under `data/` and uploaded files under `uploads/`. Render's local filesystem is temporary, so this setup is suitable for demos but can lose data after restarts or redeploys. For production, migrate the database and uploaded files to persistent services before relying on user data.
+
 ---
 
 ## 🧪 Demo Credentials
