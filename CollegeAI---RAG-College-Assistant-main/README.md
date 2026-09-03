@@ -90,7 +90,7 @@ The repository includes a root-level `render.yaml` for the Express backend. Depl
 2. If configuring manually, use these settings:
    - Root Directory: `CollegeAI---RAG-College-Assistant-main`
    - Build Command: `npm install && npm run build:server`
-   - Start Command: `npm start`
+   - Start Command: `node dist/server.cjs`
    - Health Check Path: `/api/health`
 3. Add these environment variables in Render:
 

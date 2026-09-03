@@ -4,7 +4,7 @@ services:
     runtime: node
     rootDir: CollegeAI---RAG-College-Assistant-main
     buildCommand: npm install && npm run build:server
-    startCommand: npm start
+    startCommand: node dist/server.cjs
     healthCheckPath: /api/health
     envVars:
       - key: NODE_ENV
