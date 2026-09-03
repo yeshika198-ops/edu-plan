@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "doc_eceef718fd966df6",
+    "userId": "usr_9311715a6d07d91c",
+    "filename": "academic_calendar_2026_2027.pdf",
+    "originalName": "Academic Calendar (Fall & Spring 2026-2027).pdf",
+    "fileType": "pdf",
+    "fileSize": 1642,
+    "status": "Indexed",
+    "chunkCount": 3,
+    "createdAt": "2026-09-03T12:48:52.946Z",
+    "updatedAt": "2026-09-03T12:48:52.957Z",
+    "extractedTextPreview": "CAMPUS ACADEMIC CALENDAR & SCHEDULE (ACADEMIC YEAR 2026-2027)\nOffice of the Dean of Academic Affairs\n\n1. FALL SEMESTER 2026 SCHEDULE:\n- Orientation & Document Verification for Freshmen: August 10, 2026 - August 14, 2026\n- Course Registration & Fee Payment Deadline: August 20, 2026 (Late fee of $50 a..."
+  },
+  {
+    "_id": "doc_7f794986770c98c7",
+    "userId": "usr_9311715a6d07d91c",
+    "filename": "hostel_rules_and_fees.pdf",
+    "originalName": "Hostel Accommodation Rules & Fee Structure 2026.pdf",
+    "fileType": "pdf",
+    "fileSize": 1644,
+    "status": "Indexed",
+    "chunkCount": 2,
+    "createdAt": "2026-09-03T12:48:52.959Z",
+    "updatedAt": "2026-09-03T12:48:52.970Z",
+    "extractedTextPreview": "STUDENT RESIDENTIAL SERVICES & HOSTEL MANUAL 2026-2027\nOffice of the Chief Warden\n\n1. HOSTEL APPLICATION & ADMISSION PROCESS:\n- Application Portal Opens: June 1, 2026\n- Last Date for Hostel Application Submission: July 15, 2026 (strictly enforced)\n- Room Allotment List Publication: July 28, 2026\n- H..."
+  },
+  {
+    "_id": "doc_89ec361c777ce4e2",
+    "userId": "usr_9311715a6d07d91c",
+    "filename": "placement_and_internship_policy.pdf",
+    "originalName": "Career Development & Campus Placement Policy.pdf",
+    "fileType": "pdf",
+    "fileSize": 1513,
+    "status": "Indexed",
+    "chunkCount": 3,
+    "createdAt": "2026-09-03T12:48:52.973Z",
+    "updatedAt": "2026-09-03T12:48:52.985Z",
+    "extractedTextPreview": "CAMPUS PLACEMENT & INTERNSHIP GUIDELINES 2026-2027\nCareer Development & Corporate Relations Cell (CDCRC)\n\n1. ELIGIBILITY CRITERIA FOR RECRUITMENT DRIVES:\n- Cumulative Grade Point Average (CGPA): Minimum aggregate CGPA of 6.5 with no active backlogs at the start of the final year. Individual visiting..."
+  },
+  {
+    "_id": "doc_8374628a8932903a",
+    "userId": "usr_9311715a6d07d91c",
+    "filename": "examination_and_grading_regulations.pdf",
+    "originalName": "Academic Regulations, Grading System & Exam Fees.pdf",
+    "fileType": "pdf",
+    "fileSize": 1558,
+    "status": "Indexed",
+    "chunkCount": 3,
+    "createdAt": "2026-09-03T12:48:52.987Z",
+    "updatedAt": "2026-09-03T12:48:52.997Z",
+    "extractedTextPreview": "EXAMINATION REGULATIONS & EVALUATION SYSTEM\nOffice of the Controller of Examinations\n\n1. EXAMINATION FEE DETAILS:\n- Regular Semester End Examination Fee: $50 (or ₹1,500) per semester, payable along with the tuition installment.\n- Supplementary / Backlog Examination Fee: $15 (or ₹450) per course/subj..."
+  },
+  {
+    "_id": "doc_3d601fc29bc44ba6",
+    "userId": "usr_9f3a30737c9ad561",
+    "filename": "collegegpt_sample_college_information.pdf",
+    "originalName": "collegegpt_sample_college_information.pdf",
+    "fileType": "pdf",
+    "fileSize": 24305,
+    "status": "Indexed",
+    "chunkCount": 3,
+    "createdAt": "2026-09-03T12:52:51.940Z",
+    "updatedAt": "2026-09-03T12:52:59.424Z",
+    "extractedTextPreview": "CollegeGPT - Sample College Information\nThis sample document is created only for testing the CollegeGPT RAG document-upload and retrieval\npipeline.\n1. Admissions\nApplications are accepted for undergraduate programs. Students should check the admission notice for\napplication dates, eligibility, requi..."
+  },
+  {
+    "_id": "doc_54b0c6feb9581381",
+    "userId": "usr_9f3a30737c9ad561",
+    "filename": "collegegpt_sample_college_information.pdf",
+    "originalName": "collegegpt_sample_college_information.pdf",
+    "fileType": "pdf",
+    "fileSize": 24305,
+    "status": "Indexed",
+    "chunkCount": 3,
+    "createdAt": "2026-09-03T13:00:13.532Z",
+    "updatedAt": "2026-09-03T13:00:18.993Z",
+    "extractedTextPreview": "CollegeGPT - Sample College Information\nThis sample document is created only for testing the CollegeGPT RAG document-upload and retrieval\npipeline.\n1. Admissions\nApplications are accepted for undergraduate programs. Students should check the admission notice for\napplication dates, eligibility, requi..."
+  },
+  {
+    "_id": "doc_f71c112d371cb538",
+    "userId": "usr_9f3a30737c9ad561",
+    "filename": "collegegpt_sample_college_information.pdf",
+    "originalName": "collegegpt_sample_college_information.pdf",
+    "fileType": "pdf",
+    "fileSize": 24305,
+    "status": "Indexed",
+    "chunkCount": 3,
+    "createdAt": "2026-09-03T13:10:20.181Z",
+    "updatedAt": "2026-09-03T13:10:25.181Z",
+    "extractedTextPreview": "CollegeGPT - Sample College Information\nThis sample document is created only for testing the CollegeGPT RAG document-upload and retrieval\npipeline.\n1. Admissions\nApplications are accepted for undergraduate programs. Students should check the admission notice for\napplication dates, eligibility, requi..."
+  }
+]

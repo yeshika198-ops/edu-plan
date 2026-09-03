@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "conv_6f5df3beb02a1934",
+    "userId": "usr_b8c9b0b538213dbf",
+    "title": "Hi",
+    "createdAt": "2026-08-30T12:32:12.145Z",
+    "updatedAt": "2026-08-30T12:33:19.900Z"
+  },
+  {
+    "_id": "conv_9faf9fbc1e2992da",
+    "userId": "usr_d8953aa964df5e86",
+    "title": "What are the hostel quiet hours and gate timi",
+    "createdAt": "2026-08-30T12:41:02.298Z",
+    "updatedAt": "2026-08-30T12:41:07.839Z",
+    "lastMessagePreview": "I couldn't find this information in the uploaded college documents."
+  },
+  {
+    "_id": "conv_1cd4ae8578a7749a",
+    "userId": "usr_d8953aa964df5e86",
+    "title": "What is the minimum attendance requirement an",
+    "createdAt": "2026-08-30T12:41:36.764Z",
+    "updatedAt": "2026-08-30T12:41:40.401Z",
+    "lastMessagePreview": "Based on the provided college documents, here is the information regarding your "
+  },
+  {
+    "_id": "conv_f5ee49e4f34e3986",
+    "userId": "usr_9f3a30737c9ad561",
+    "title": "Create the timetable for me",
+    "createdAt": "2026-09-03T12:57:00.654Z",
+    "updatedAt": "2026-09-03T12:57:00.677Z",
+    "lastMessagePreview": "Based on your uploaded college documents:\n\nHere is what was found in your indexe"
+  },
+  {
+    "_id": "conv_050209130eb73731",
+    "userId": "usr_9f3a30737c9ad561",
+    "title": "Hi",
+    "createdAt": "2026-09-03T12:57:15.577Z",
+    "updatedAt": "2026-09-03T12:57:15.589Z",
+    "lastMessagePreview": "I couldn't find this information in your uploaded college documents. Please make"
+  },
+  {
+    "_id": "conv_912a69e1c654e3af",
+    "userId": "usr_9f3a30737c9ad561",
+    "title": "Hello",
+    "createdAt": "2026-09-03T12:57:27.861Z",
+    "updatedAt": "2026-09-03T12:57:27.872Z",
+    "lastMessagePreview": "I couldn't find this information in your uploaded college documents. Please make"
+  },
+  {
+    "_id": "conv_3b65dab2a702a3c3",
+    "userId": "usr_9f3a30737c9ad561",
+    "title": "Hii",
+    "createdAt": "2026-09-03T13:00:34.604Z",
+    "updatedAt": "2026-09-03T13:00:34.626Z",
+    "lastMessagePreview": "I couldn't find this information in your uploaded college documents. Please make"
+  },
+  {
+    "_id": "conv_86e6e7365b294657",
+    "userId": "usr_9f3a30737c9ad561",
+    "title": "Hiiiiii",
+    "createdAt": "2026-09-03T13:10:41.844Z",
+    "updatedAt": "2026-09-03T13:10:41.881Z",
+    "lastMessagePreview": "Based on your uploaded college documents:\n\nHere is what was found in your indexe"
+  }
+]

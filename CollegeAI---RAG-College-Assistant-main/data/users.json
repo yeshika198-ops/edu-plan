@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "usr_9311715a6d07d91c",
+    "name": "Alex Johnson",
+    "email": "alex.student@college.edu",
+    "passwordHash": "$2b$10$DhvcUqa2Xox4HIUacXWMLOomvVKba.8SoC2jaKpaKUGeJynZoIxAq",
+    "createdAt": "2026-09-03T12:48:52.940Z",
+    "updatedAt": "2026-09-03T12:48:52.940Z"
+  },
+  {
+    "_id": "usr_9f3a30737c9ad561",
+    "name": "yeshika",
+    "email": "yeshika198@gmail.com",
+    "passwordHash": "$2b$10$tD87wA5M8d0rlMOuxeUQgeR1B1GHuUi24ab26hHYvPS4f7fqVzU/O",
+    "createdAt": "2026-09-03T12:52:27.369Z",
+    "updatedAt": "2026-09-03T12:52:27.369Z"
+  }
+]
