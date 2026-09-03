@@ -3,7 +3,7 @@ services:
     name: collegeai-backend
     runtime: node
     rootDir: CollegeAI---RAG-College-Assistant-main
-    buildCommand: npm install && npm run build:server
+    buildCommand: npm install && npm run build
     startCommand: node dist/server.cjs
     healthCheckPath: /api/health
     envVars:

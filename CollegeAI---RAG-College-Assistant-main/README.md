@@ -89,7 +89,7 @@ The repository includes a root-level `render.yaml` for the Express backend. Depl
 1. Create a Render Blueprint from this GitHub repository, or create a Web Service manually.
 2. If configuring manually, use these settings:
    - Root Directory: `CollegeAI---RAG-College-Assistant-main`
-   - Build Command: `npm install && npm run build:server`
+   - Build Command: `npm install && npm run build`
    - Start Command: `node dist/server.cjs`
    - Health Check Path: `/api/health`
 3. Add these environment variables in Render:
